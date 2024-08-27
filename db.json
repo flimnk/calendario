@@ -1,0 +1,40 @@
+{
+"eventos":[
+    {
+        "descricao": "Estudar React",
+        "inicio":"2024-08-26T20:00",
+        "fim":"2024-08-26T23:00",
+        "completo": false,
+        "id": 1642342747
+    },
+    {
+        "descricao": "Estudar Recoil",
+        "inicio":"2024-08-27T17:00",
+        "fim":"2024-08-27T21:00",
+        "completo": false,
+        "id": 1642342959
+    },
+    {
+        "descricao": "Assistir tutorial sobre Next.js",
+        "inicio": "2024-08-26T18:00",
+        "fim": "2024-08-26T19:30",
+        "completo": false,
+        "id": 1642343301
+    },
+    {
+        "descricao": "Fazer revisão de código",
+        "inicio": "2024-08-27T10:00",
+        "fim": "2024-08-27T12:00",
+        "completo": false,
+        "id": 1642343412
+    },{
+        "descricao": "Leitura sobre boas práticas em React",
+        "inicio": "2024-08-28T14:00",
+        "fim": "2024-08-28T15:30",
+        "completo": false,
+        "id": 1642343523
+    }
+    
+    
+]
+}
